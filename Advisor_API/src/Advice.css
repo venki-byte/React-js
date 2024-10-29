@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rubik+Wet+Paint&display=swap');
+
+*{
+    font-family: "Inter", sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #fc427b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    color: #fff;
+    text-align: center;
+}
+
+div h3{
+    font-size: 25px;
+    font-weight: 300;
+}
+
+div button{
+    border: none;
+    background-color: #182c61;
+    color: #fff;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+b{
+    color: #3b3b98;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+}
